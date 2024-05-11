@@ -1,0 +1,16 @@
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\bin\Debug\ThesisPrototype.exe.config
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\bin\Debug\ThesisPrototype.exe
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\bin\Debug\ThesisPrototype.pdb
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\bin\Debug\Guna.UI2.dll
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.csproj.AssemblyReference.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.LoginForm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.Properties.Resources.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.csproj.GenerateResource.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPr.D63D5647.Up2Date
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.exe
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.pdb
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.MainForm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.InventoryManagementForm.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.SalesOperationForms.resources
+C:\Users\Jhay-Ar Barnedo 999\source\repos\ThesisPrototype\ThesisPrototype\obj\Debug\ThesisPrototype.SalesReportForms.resources
